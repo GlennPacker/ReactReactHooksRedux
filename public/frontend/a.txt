@@ -1,0 +1,42 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 50CD-A254
+
+ Directory of C:\Users\Glenn\Documents\React\glennpacker.net-react\public\frontend
+
+[.]
+[..]
+a.txt
+ABetterCSSLESSAndSASS.png
+angular-getting-started.jpg
+angularbestpractices.jpg
+angularfronttobackwithwebapi.jpg
+AngularJSBestPractices.jpg
+angularjsbestpractices.png
+angularjslineofbusinessapplications.png
+angularjswithtypescript.png
+AngularTheBigPicture.jpg
+Bootstrap3.jpg
+BowerFundamentals.png
+css.png
+googlemapsapigetstarted.png
+HandsOnResponsiveWebDesign.jpg
+html5fromscratch.png
+htmlfundamentals.jpg
+IntroductiontoBootstrap.jpg
+introductiontocss.jpg
+IntroductionToPresentationDesign.jpg
+javascriptforcsharpdevelopers.png
+jQueryFundamentals.jpg
+jQueryGettingStarted.jpg
+jQueryUI.jpg
+QuickStartToJavaScript.jpg
+QuickStartToJavaScriptVolume2.jpg
+reactfundamentals.png
+socialmedia.png
+testing-angular-js-from-scratch.jpg
+testingangularjsfromscratch.png
+thinkingoutsidetheboxwithcssshapes.png
+typescriptfundamentals.png
+UserExperienceFirstAndInContext.jpg
+              33 File(s)      3,907,080 bytes
+               2 Dir(s)  396,851,990,528 bytes free

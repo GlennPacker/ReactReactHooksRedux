@@ -1,0 +1,22 @@
+#app {
+  margin: 0 10em;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
+
+label {
+  width: 100px;
+}
+
+h3 {
+  font-size: 1.2em;
+  padding-top: 1em;
+}
+
+.client-grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+}
